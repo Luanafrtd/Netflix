@@ -19,9 +19,7 @@ Clone the repository to your local machine.
 Open the index.html file in any modern web browser.
 Preview
 
-
-Add a screenshot of the project here.
-
 Live Demo
 
 Click here to view the live demo
+https://luanafrtd.github.io/Netflix
